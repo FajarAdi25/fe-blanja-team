@@ -111,8 +111,8 @@ bash
 
 ## Related Project
 
-⚡[Backend Blanja](https://github.com/ChanraSB/be-blanja-team)⚡
+⚡[Backend Blanja](https://github.com/FajarAdi25/be-blanja-team)⚡
 
-⚡[Frontend Blanja](https://github.com/FajarAdi25/be-blanja-team)⚡
+⚡[Frontend Blanja](https://github.com/FajarAdi25/fe-blanja-team)⚡
 
 ⚡[Demo Blanja](https://fe-blanja-team.vercel.app/)⚡
